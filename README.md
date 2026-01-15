@@ -9,7 +9,7 @@ I'm blessed with amazing oppertunities in my life and forever grateful for havin
 </p>
 <br><br>
 Recently been optimizing AWS Kubernetes (EKS) CI-CD Pipelines with security checks in mind.<br>
-Currently I'm learning so I certify for the AWS Architecture Professional Certification.<br>
+Currently I'm learning the AWS Architecture Professional Certification.<br>
 Looking to collaborate on AWS Automation Account Creation with AFT.
 <br><br>
 I'm a Multi Cloud Engineer with 10 years of experience in the industry, working roles like<br>
