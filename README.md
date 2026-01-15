@@ -1,30 +1,57 @@
-## Hi there 👋, my name is Bryan Valdes
-## I am DevOps Cloud Engineer
-- What I do is make the most of my **code** to **container orchestration** as well be the best team member I can, because **teamwork** makes the dream work!
+# 💫 About Me:
 
-<img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" width='250' height='200'/> <img src='https://media.giphy.com/media/WsRay6mTizlOVn3nts/giphy.gif' width='300' height='200'/> <img src='https://media.giphy.com/media/3oz8xWBaQ2147TBbgc/giphy.gif' width='250' height='200'/>
+I'm blessed with amazing oppertunities in my life and forever grateful for having a beautiful wife, amazing friends, adventurous career, and comedic pets.<br><br>
 
-### About me:
-***
-- Years of experince thriving in the Computer Science field, has lead me to meet as well, grow from talented individuals in this industry via the handling of projects in agile/scrum environments. I've been blessed with many engaging oppertunities in my career such as: 
 
-    - Providing help desk support, applying scripts/migrations in enterprise's environments to critical infrastructure, data center cloud administration, AWS certified SysOps Administrator, graduate with a *Bachelors in Network Systems and Data Communications*, and now I'm automating cloud orchestration via ci-cd applying IAC with evolving technology stacks. 
+<img src="..\bvaldes-sol\src\proposal.jpg" style="width: 250px; height: 250px; border-radius: 50%; object-fit: cover;">
+<img src="..\bvaldes-sol\src\tank.png" style="width: 250px; height: 250px; border-radius: 5%; object-fit: cover;">
+<img src="../bvaldes-sol/src/doggo.png" alt="A dog" style="width: 250px; height: 250px; border-radius: 50%; object-fit: cover;">
 
-### Language and Tools:
-***
-<img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" width='30' height='30'/>AWS  <img src="https://img.icons8.com/color/48/000000/kubernetes.png" width='30' height='30'/>Kubernetes  <img src="https://img.icons8.com/color/48/000000/docker.png" width='30' height='30'/>Docker  <img src="https://img.icons8.com/color/48/000000/terraform.png" width='30' height='30'/>Terraform  <img src="https://img.icons8.com/color/48/000000/ansible.png" width='30' height='30'/>Ansible  <img src="https://img.icons8.com/color/48/000000/jenkins.png" width='30' height='30'/>Jenkins  <img src="https://img.icons8.com/color/48/000000/grafana.png" width='30' height='30'/>Grafana <img src="https://img.icons8.com/color/48/000000/prometheus-app.png" width='30' height='30'/>Prometheus  <img src="https://img.icons8.com/color/48/000000/sailing-ship-small.png" width='30' height='30'/>Istio  <img src="https://img.icons8.com/color/48/000000/git.png" width='30' height='30'/>Git  <img src="https://img.icons8.com/color/48/000000/python--v1.png" width='30' height='30'/>Python  <img src="https://img.icons8.com/color/48/000000/console.png" width='30' height='30'/>BASH  <img src="https://img.icons8.com/color/48/000000/linux--v1.png" width='30' height='30'/>Linux  <img src="https://img.icons8.com/color/48/000000/centos.png" width='30' height='30'/>CentOS  <img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png" width='30' height='30'/>Ubuntu  <img src="https://img.icons8.com/color/48/000000/redis.png" width='30' height='30'/>Redis  <img src="https://img.icons8.com/color/48/000000/nginx.png" width='30' height='30'/>Nginx  
+<br><br>
+Recently been optimizing AWS Kubernetes (EKS) CI-CD Pipelines with security checks in mind.<br>
+Currently I'm learning so I certify for the AWS Architecture Professional Certification.<br>
+Looking to collaborate on AWS Automation Account Creation with AFT.
+<br><br>
+I'm a Multi Cloud Engineer with 10 years of experience in the industry, working roles like<br>
+AWS Cloud Platform Engineer, AWS DevOps Engineer, Data center Administrator, Network Engineer.<br><br>
+In my free time I teach aspiring minds looking for their intro to the world of Information technology and Computer Science. <br>
+Teaching them AWS roles, Developer Roles, Technician roles, and the skills needed for each path.
 
-### What am I up too?
-***
-- 🌱 I’m currently learning more about <img src="https://img.icons8.com/color/48/000000/radar--v1.png" width='20' height='20'/>SonarQube implementations. 
-- 🔭 I’m currently working on blue-green deployments.
-- 👯 I’m looking to collaborate on Devops Cloud stacks with AWS.
-- 🤔 I’m looking for help with evolving cloud security solutions.
-- 💬 Ask me about cloud automated projects, Ansible playbooks, and any technologies you see listed above. 
-- 📫 How to reach me: reach out to me on my [Linkedin](https://www.linkedin.com/in/bryan-valdes-655223182/)
-- ⚡ Fun fact: I love dogs<img src="https://img.icons8.com/color/48/000000/crash-bandicoot.png" width='20' height='20'/> yet I took in a kitten from the streets, raised him up, and now he's my spoiled adorable cat<img src="https://img.icons8.com/color/48/000000/tom.png" width='20' height='20'/> whose name is Ash. 
 
-### Connect with me:
-***
-[<img src='https://img.icons8.com/color/48/000000/github--v1.png' alt='github' height='40'>](https://github.com/bvaldes-k9)  [<img src='https://img.icons8.com/color/48/000000/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in//bryan-valdes-655223182//)  [<img src='https://img.icons8.com/color/48/000000/stackoverflow.png' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/16744984)  
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bryan-valdes-655223182/) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bryanvaldes@hotmail.com) 
 
+# 💻 Tech Stack:
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) 
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) 
+![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) 
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)  
+![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![GitLab](https://img.shields.io/badge/gitlab-%23121011.svg?style=for-the-badge&logo=gitlab&logoColor=orange)
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) 
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) 
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)  
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) 
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) 
+![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) 
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)  
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) 
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)  
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+
+ 
