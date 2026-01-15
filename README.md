@@ -3,9 +3,9 @@
 I'm blessed with amazing oppertunities in my life and forever grateful for having a beautiful wife, amazing friends, adventurous career, and comedic pets.<br><br>
 
 
-<img src="..\bvaldes-sol\src\proposal.jpg" style="width: 250px; height: 250px; border-radius: 50%; object-fit: cover;">
-<img src="..\bvaldes-sol\src\tank.png" style="width: 250px; height: 250px; border-radius: 5%; object-fit: cover;">
-<img src="../bvaldes-sol/src/doggo.png" alt="A dog" style="width: 250px; height: 250px; border-radius: 50%; object-fit: cover;">
+<img src=".\src\proposal.jpg" alt="proposal" style="width: 250px; height: 250px; border-radius: 50%; object-fit: cover;">
+<img src=".\src\tank.png" alt="friends" style="width: 250px; height: 250px; border-radius: 5%; object-fit: cover;">
+<img src=".\src\doggo.png" alt="A dog" style="width: 250px; height: 250px; border-radius: 50%; object-fit: cover;">
 
 <br><br>
 Recently been optimizing AWS Kubernetes (EKS) CI-CD Pipelines with security checks in mind.<br>
