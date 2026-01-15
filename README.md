@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-I'm blessed with amazing oppertunities in my life and forever grateful for having a beautiful wife, amazing friends, adventurous career, and comedic pets.<br><br>
+I'm blessed with amazing opportunities in my life and forever grateful for having a beautiful wife, amazing friends, adventurous career, and comedic pets.<br><br>
 
 <p float="left">
 <img src=".\src\proposal.jpg" alt="proposal" style="width: 250px; height: 250px; border-radius: 50%; object-fit: cover;">
