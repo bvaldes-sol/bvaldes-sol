@@ -3,9 +3,9 @@
 I'm blessed with amazing opportunities in my life and forever grateful for having a beautiful wife, amazing friends, adventurous career, and comedic pets.<br><br>
 
 <p float="left">
-<img src=".\src\proposal.jpg" alt="proposal" style="width: 250px; height: 250px; border-radius: 50%; object-fit: cover;">
-<img src=".\src\tank.png" alt="friends" style="width: 250px; height: 250px; border-radius: 5%; object-fit: cover;">
-<img src=".\src\doggo.png" alt="A dog" style="width: 250px; height: 250px; border-radius: 50%; object-fit: cover;">
+<img src=".\src\love.png" alt="love" style="width: 250px; height: 250px;">
+<img src=".\src\tank.png" alt="friends" style="width: 250px; height: 250px;">
+<img src=".\src\doggo.png" alt="A dog" style="width: 250px; height: 250px; ">
 </p>
 <br><br>
 Recently been optimizing AWS Kubernetes (EKS) CI-CD Pipelines with security checks in mind.<br>
